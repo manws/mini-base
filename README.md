@@ -1,2 +1,2 @@
-# mini-base
-微信小程序的base项目
+# mini-ctms
+CTMS的小程序版本

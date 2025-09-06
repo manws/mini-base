@@ -1,0 +1,20 @@
+<view class="flex-style-column launcher-container">
+  <view style="flex-grow: 1;"></view>
+  <view class="flex-style-column" animation="{{ani}}">
+    <view class="flex-style-base">
+      <view class="flex-style-base image-container3">
+        <view class="flex-style-base image-container2">
+          <view class="flex-style-base image-container1">
+            <view class="flex-style-base image-container">
+              <image class="logo" mode="aspectFit" src="../../assets/icon_blue.png"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view style="flex-grow: 1;"></view>
+  <text class="launcher-tip">欢迎进入随机系统</text>
+  <view style="flex-grow: 5;"></view>
+  <text class="version-name">{{version}}</text>
+</view>
